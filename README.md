@@ -3,7 +3,7 @@ Module 1 Challenge: Code Refactor
 
 ## Description
 
-This repository is designated for completion of modul 1 challenge of Coding Bootcamp. Student is expected to learn about code refactoring.
+This repository is designated for completion of modul 1 challenge of Coding Bootcamp. Student is expected to learn about code refactoring. To see the deployed application, visit this [Horiseon - Landing Page](https://retnodamayanti.github.io/Challenge-1-Horiseon-Web-Accessibilty/)
 
 ## User Story
 
